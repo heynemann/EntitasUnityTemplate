@@ -1,4 +1,7 @@
 # EntitasUnityTemplate
-Entitas Unity Template. Just grab the assets folder contents and use it in your new Unity Project.
+
+Entitas Unity Template. 
+
+Just grab the `Assets` folder content, the `Entitas.properties` file and add both to a newly added Unity Project.
 
 This project is for Unity 2017.
